@@ -30,6 +30,7 @@ Other:
 
 - Doctorate in Philosophy
 
+
 ### Contact
 
 My email is [davidanagy@gmail.com](mailto:davidanagy@gmail.com); you can also find my social media in the links below. I'd love to hear from you!
