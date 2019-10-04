@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Numerical and categorical data
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! I'm David Nagy. While we can capture many things with data, it's difficult to enframe the totality of a person's life. But I will do my best.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I've spent much of my life studying philosophy, as an undergrad at California State University, Los Angeles (graduated 2009) and a PhD student at the City University of New York (graduated September 2019). While I still love philsosophy, I've come to realize the importance of data--and particularly, the understanding and manipulation of data--in our modern world. Philosophy, to me, is the search for truth, and there is much truth to be found in the vast sea of numbers, if only we know where to look.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My email is [davidanagy@gmail.com](mailto:davidanagy@gmail.com); you can also find my social media in the links below. I'd love to hear from you!
