@@ -20,7 +20,9 @@ description: David Nagy's personal website and blog
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    -Profile: "aboutme"
+    -Skills: "skills"
   Projects: "projects"
   Home: "davidanagy.github.io"
 
