@@ -10,7 +10,7 @@ subtitle: Projects that I've worked on!
 
 A website constructed for our client, the [Center for Advanced Defense Studies](https://c4ads.org/), that allows users to search through current and historical sanctions data. Worked as a Data Scientist in an 8-member remote team to construct this website from scratch over the course of six weeks. I accomplished many tasks during this time, including (a) designing endpoints for the frontend; (b) wrangling the data and making additional key features; (c) scraping UN Panel of Expert reports and making them searchable.
 
-[Link](https://master.d2lar62teu450l.amplifyapp.com/) | (GitHub not available as the code is owned by the client)
+(Link and GitHub not available; the code is owned by the client and they are not ready for the site to be publicly accessed)
 
 **Predicting NBA Assists**
 
