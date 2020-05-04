@@ -16,15 +16,29 @@ Progamming languages:
 
 - Python
 
+- SQL
+
 Machine learning models:
 
 - Linear and logistic regression
+
+- Decision tree
+
+- Random forest
+
+- Gradient Boosting
+
+- Neural networks
 
 Other technical skills:
 
 - Creating and manipulating datasets
 
 - Making and explaining visuals
+
+- Backend engineering, particularly using Flask
+
+- Natural language processing
 
 Other:
 
