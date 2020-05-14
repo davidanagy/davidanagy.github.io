@@ -4,7 +4,7 @@ title: Speeding Up Feature Construction
 ---
 (NOTE: This article assumes basic knowledge of Python and pandas. See pandas documentation [here](https://pandas.pydata.org/).)
 
-In my [previous article](https://davidanagy.github.io/2020-04-08-automatically-scraping-and-updating-data-in-flask/), I discussed the "Sanctions Explorer" project I worked on for two months and one of the main challenges I faced: how to automatically scrape new data and update the database with it. This article is about another main challenge: how to construct a particular sort of new feature in a reasonable timeframe. First, I will explain [the overall problem](#stating-the-problem) I was faced with, including my first inadequate solution. Then I will discuss [my final solution](#sorting-to-the-rescue!).
+In my [previous article](https://davidanagy.github.io/2020-04-08-automatically-scraping-and-updating-data-in-flask/), I discussed the "Sanctions Explorer" project I worked on for two months and one of the main challenges I faced: how to automatically scrape new data and update the database with it. This article is about another main challenge: how to construct a particular sort of new feature in a reasonable timeframe. First, I will explain [the overall problem](#stating-the-problem) I was faced with, including my first inadequate solution. Then I will discuss [my final solution](#sorting-to-the-rescue).
 
 ### Stating the Problem
 
